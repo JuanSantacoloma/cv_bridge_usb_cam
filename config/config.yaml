@@ -1,0 +1,2 @@
+cam_topic: "/usb_cam/image_raw/compressed"
+encoding: "YUY2"
